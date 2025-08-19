@@ -3,7 +3,7 @@
 I'm a software developer with a passion for creating practical tools and applications that solve real-world problems, especially in non-profit, education, and gaming spaces. I enjoy working with [Monorepos](https://nx.dev/), [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture), and playing with CI/CD like Github Actions. Currently focusing on full-stack development.
 
 ## About Me
-- **Background**: Experienced in building web apps, and backend architectures. I've worked on projects for non-profits and educational platforms, aiming to make a positive impact.
+- **Background**: Experienced in building web apps, and backend architectures. I've worked on ERP and educational platforms.
 - **Location**: Istanbul/Turkey
 - **Interests**: Software engineering, open-source contributions, video game lore, and innovative problem-solving.
 - **Fun Fact**: I love trivia games inspired by video game worlds!
