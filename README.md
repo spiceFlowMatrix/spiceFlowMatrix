@@ -9,12 +9,31 @@ I'm a software developer with a passion for creating practical tools and applica
 - **Fun Fact**: I love trivia games inspired by video game worlds!
 
 ## Skills
-- **Languages**: C#, TypeScript, JavaScript, Dart
-- **Frontend**: Angular, Flutter
-- **Backend**: ASP.NET Core, PostgreSQL, Apache Cassandra
-- **Automation**: Github Actions, GitLab CI/CD, Docker, Kubernetes
-- **Cloud**: Google Cloud Platform, Firebase
 
+### Languages
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Backend
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+
+### Automation
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Cloud
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ## What I'm Learning/Working On
 - Diving deeper into modern architectures like Nx and Clean Architecture.
 - Exploring cross-platform development with Dart/Flutter.
