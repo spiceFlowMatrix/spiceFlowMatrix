@@ -34,6 +34,7 @@ I'm a software developer with a passion for creating practical tools and applica
 ### Cloud
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 ## What I'm Learning/Working On
 - Diving deeper into modern architectures like Nx and Clean Architecture.
 - Exploring cross-platform development with Dart/Flutter.
@@ -42,7 +43,7 @@ I'm a software developer with a passion for creating practical tools and applica
 ## Achievements/Contributions
 - Built impactful projects for ERP and education.
 - Maintaining a monorepo for ongoing work.
-- [Add certifications, hackathons, or professional achievements from LinkedIn if available]
+- [Responsive Web Design](https://www.freecodecamp.org/certification/spiceflow/responsive-web-design) and [Backend Development and APIs](https://www.freecodecamp.org/certification/spiceflow/back-end-development-and-apis) certifications from [freeCodeCamp.org](https://www.freecodecamp.org)
 
 ## Contact Me
 - **LinkedIn**: [Hamza Yazar](https://www.linkedin.com/in/hamza-yazar-a9550a147/)
