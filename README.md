@@ -1,12 +1,11 @@
 # Hi there, I'm Hamza Yazar! 👋
 
-I'm a software developer with a passion for creating practical tools and applications that solve real-world problems, especially in non-profit, education, and gaming spaces. I enjoy working with [Monorepos](https://nx.dev/), [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture), and playing with CI/CD like Github Actions. Currently focusing on full-stack development.
+I'm a software developer with a passion for creating practical tools and applications that solve real-world problems. I enjoy working with [Monorepos](https://nx.dev/), [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture), and playing with CI/CD like Github Actions. Currently focusing on full-stack development.
 
 ## About Me
 - **Background**: Experienced in building web apps, and backend architectures. I've worked on ERP and educational platforms.
 - **Location**: Istanbul/Turkey
-- **Interests**: Software engineering, open-source contributions, video game lore, and innovative problem-solving.
-- **Fun Fact**: I love trivia games inspired by video game worlds!
+- **Interests**: Open-source contributions, integrating AI into my day-to-day work, and learning Go.
 
 ## Skills
 
@@ -36,7 +35,8 @@ I'm a software developer with a passion for creating practical tools and applica
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## What I'm Learning/Working On
-- Diving deeper into modern architectures like Nx and Clean Architecture.
+- Diving deeper into modern architectures like Nx, Clean Architecture, and AI integrations into my development environment.
+- Learning Go as a second language to use in my backend stack.
 - Exploring cross-platform development with Dart/Flutter.
 - Open to collaborations on AI, education, and game related projects.
 
